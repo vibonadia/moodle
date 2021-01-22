@@ -1,0 +1,45 @@
+// Exemplo de questões para importação no moodle
+
+::NUMQUESTAO::[html]Exemplo de questão com apenas uma alternativa correta: {
+~Alternativa incorreta 1.
+~Alternativa incorreta 2.
+~Alternativa incorreta 3.
+=Alternativa correta.
+}
+
+::NUMQUESTAO::[html]Exemplo de questão com mais de uma alternativa correta. {
+~%50%Esta alternativa vale 50 por cento da questão.
+~%50%Esta alternativa vale 50 por cento da questão.
+~Esta alternativa está incorreta.
+~Esta alternativa está incorreta.
+}
+
+::NUMQUESTAO::[html]Exemplo de questão com mais de uma alternativa correta. {
+~%25%Esta alternativa vale 25 por cento da questão.
+~%25%Esta alternativa vale 25 por cento da questão.
+~%25%Esta alternativa vale 25 por cento da questão.
+~%25%Esta alternativa vale 25 por cento da questão.
+~Esta alternativa está incorreta.
+~Esta alternativa está incorreta.
+~Esta alternativa está incorreta.
+~Esta alternativa está incorreta.
+}
+
+
+::NUMQUESTAO::[html]Exemplo de questão de associação. Neste exemplo o aluno deve associar um esta à sua sigla. {
+=Amazonas -> AM
+=São Paulo  -> SP
+=Bahia  -> BA
+=Minas Gerais  -> MG
+}
+
+::NUMQUESTAO::[html]Exemplo de questão dissertativa:{}
+
+::NUMQUESTAO::[html]Este é um exemplo de questão de V ou F, e a afirmação é falsa.{F}
+
+::NUMQUESTAO::[html]Este é um exemplo de questão de V ou F, e a afirmação é falsa.{T}
+
+::NUMQUESTAO::[html]Exemplo de questão resposta curta. {=Resposta esperada. =resposta esperada}
+
+
+
