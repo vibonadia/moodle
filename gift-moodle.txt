@@ -10,8 +10,8 @@
 ::NUMQUESTAO::[html]Exemplo de questão com mais de uma alternativa correta. {
 ~%50%Esta alternativa vale 50 por cento da questão.
 ~%50%Esta alternativa vale 50 por cento da questão.
-~Esta alternativa está incorreta.
-~Esta alternativa está incorreta.
+~%-50%Esta alternativa está incorreta (50% de desconto na nota).
+~%-50%Esta alternativa está incorreta (50% de desconto na nota).
 }
 
 ::NUMQUESTAO::[html]Exemplo de questão com mais de uma alternativa correta. {
@@ -19,10 +19,10 @@
 ~%25%Esta alternativa vale 25 por cento da questão.
 ~%25%Esta alternativa vale 25 por cento da questão.
 ~%25%Esta alternativa vale 25 por cento da questão.
-~Esta alternativa está incorreta.
-~Esta alternativa está incorreta.
-~Esta alternativa está incorreta.
-~Esta alternativa está incorreta.
+~%-25%Esta alternativa está incorreta (25% de desconto na nota).
+~%-25%Esta alternativa está incorreta (25% de desconto na nota).
+~%-25%Esta alternativa está incorreta (25% de desconto na nota).
+~%-25%Esta alternativa está incorreta (25% de desconto na nota).
 }
 
 
