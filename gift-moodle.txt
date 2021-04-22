@@ -37,7 +37,7 @@
 
 ::NUMQUESTAO::[html]Este é um exemplo de questão de V ou F, e a afirmação é falsa.{F}
 
-::NUMQUESTAO::[html]Este é um exemplo de questão de V ou F, e a afirmação é falsa.{T}
+::NUMQUESTAO::[html]Este é um exemplo de questão de V ou F, e a afirmação é verdadeira.{T}
 
 ::NUMQUESTAO::[html]Exemplo de questão resposta curta. {=Resposta esperada. =resposta esperada}
 
